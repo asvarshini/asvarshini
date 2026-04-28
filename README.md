@@ -1,160 +1,69 @@
 👋 Hi there, I'm Varshini A S
-
-🎓 Computer Science Engineer | Data Science & AI Enthusiast | Future Data Scientist
-
-I enjoy turning data into meaningful insights and building solutions that solve real-world problems. Passionate about AI, Machine Learning, Data Analytics, and Visualization, I’m continuously learning and improving my technical skills to grow in the field of Data Science.
-
-🚀 About Me
-
-🎓 Background in Computer Science Engineering
-
-🏛️ Completed a 1.5-year Data Science & AI program from IIT Roorkee
-
-📊 Interested in Data Analytics, AI, and Machine Learning
-
-🌱 Currently improving my skills through real-world Data Science projects & problem-solving
-
-🎯 Goal: To become a Data Scientist and work on impactful data-driven solutions
-
-
-🛠️ Skills & Tools
-
-💻 Programming Languages
-
-Python
-
-SQL
-
-C
-
-C++
-
-Java (Basic)
-
-📊 Data Science & Analytics
-
-Pandas
-
-NumPy
-
-Data Cleaning
-
-Exploratory Data Analysis (EDA)
-
-Data Visualization
-
-Matplotlib
-
-Power BI
-
-Python OOPs
-
-KPI Analysis
-
-⚙️ Tools & Platforms
-
-Git & GitHub
-
-Jupyter Notebook
-
-MySQL
-
-Dashboard Creation
-
-Business Insights Reporting
-
-📌 Areas of Interest
-
-🤖 Artificial Intelligence (AI)
-
-📈 Machine Learning (ML)
-
+🎓 Computer Science Engineer | 📊 Aspiring Data Analyst | 🤖 Data Science & AI Enthusiast
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">Passionate about transforming raw data into meaningful business insights.
+I enjoy working with:
 📊 Data Analytics
-
-🧠 Data Science
-
-📉 Visualization & Business Insights
-
-🛒 Recommendation Systems
-
-
+📈 KPI-driven Business Analysis
+🤖 Artificial Intelligence & Machine Learning
+📉 Visualization & Dashboard Storytelling
+🧠 Recommendation Systems
+🚀 About Me
+🎓 Computer Science Engineering Student
+🏛️ Completed a 1.5-year Data Science & AI Program from IIT Roorkee
+📊 Interested in Data Analytics, SQL, Python, and Business Insights
+🌱 Currently building real-world projects to strengthen Data Analyst skills
+🎯 Goal: Become a Data Scientist / Data Analyst solving business problems using data
+🛠️ Skills & Tools
+💻 Languages & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+📊 Data Visualization & BI
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![EDA](https://img.shields.io/badge/EDA-Data%20Analysis-blue?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Dashboard-Business%20Insights-orange?style=for-the-badge)
+⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+📌 Areas of Interest
+📊 Data Analytics
+📈 KPI Analysis
+🤖 Machine Learning
+📉 Data Visualization
+🧠 Recommendation Systems
+🏢 Business Insights & Reporting
 📊 GitHub Stats
-
-![Varshini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvarshini&show_icons=true&theme=tokyonight)
-
-
+![Varshini GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvarshini&show_icons=true&theme=tokyonight)
 🔥 GitHub Streak
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=asvarshini&theme=tokyonight)
-
-
-👀 Profile Visitors Counter
-
-![Visitor Count](https://komarev.com/ghpvc/?username=asvarshini&label=Profile%20Views&color=0e75b6&style=flat)
-
-
+💻 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvarshini&layout=compact&theme=tokyonight)
+👀 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&label=Profile%20Views&color=blue&style=flat)
 💼 Featured Projects
 
 🛒 AI Smart E-Commerce Analyzer
-
-> End-to-end analytics project using SQL, Python, Pandas, EDA, and Recommendation Logic.
-
-Key Features
-
-Customer behavior analysis
-
-Revenue analysis
-
-KPI tracking
-
-Product recommendation logic
-
-Trend analysis
-
-📊 Data Analysis Project
-
-> A project focused on cleaning, analyzing, and visualizing datasets to generate business insights.
-
-
-🤖 Machine Learning Project
-
-> Building predictive models using Python and ML techniques.
-
-
-📈 Dashboard Project
-
-> Interactive dashboards using Power BI for business intelligence.
-
-
 🌐 Connect With Me
-
 GitHub: https://github.com/asvarshini
-
-Email: varshinias32@gmail.com
-
+Email:varshinias32@gmail.com
 📚 Currently Learning
 
-Advanced SQL
-
-Data Storytelling
-
-Recommendation Systems
-
-Dashboard Development
-
-Data Analyst Workflow
-
+Advanced SQL,Data Storytelling,Dashboard Development,Recommendation Systems,Customer Analytics
 
 ⭐ Personal Motto
 
-> "Always learning, building, and growing in the world of Data Science & AI."
+> "Transforming data into insights and insights into decisions."
 
 
 
 
 
 
+---
 
-
-
-
+This README is designed for a Data Analyst / Data Science portfolio profile.
