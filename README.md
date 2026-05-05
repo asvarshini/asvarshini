@@ -23,8 +23,6 @@
 🧠 Recommendation Systems
 🏢 Business Insights & Reporting
 
-🛠️ Skills & Tools
-
 💻 Languages & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,24 +39,11 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-📊 GitHub Stats
-
-![Varshini GitHub Stats](https://github-readme-stats.vercel.app/api?username=asvarshini&show_icons=true&theme=tokyonight)
-
 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=asvarshini&theme=tokyonight)
 
-💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asvarshini&layout=compact&theme=tokyonight)
-
-👀 Profile Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&label=Profile%20Views&color=blue&style=flat)
-
 💼 Featured Projects
-
 
 🛒 AI Smart E-Commerce Analyzer
 
@@ -68,9 +53,6 @@ GitHub: https://github.com/asvarshini
 
 Email:varshinias32@gmail.com
 
-📚 Currently Learning
-
-Advanced SQL,Data Storytelling,Dashboard Development,Recommendation Systems,Customer Analytics
 
 
 
