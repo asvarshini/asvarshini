@@ -1,6 +1,6 @@
 👋 Hi there, I'm Varshini A S
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
 
 🎓 Computer Science Engineer | 📊 Aspiring Data Analyst | 🤖 Data Science & AI Enthusiast
 
