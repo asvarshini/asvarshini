@@ -1,5 +1,7 @@
 👋 Hi there, I'm Varshini A S
 
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
 🎓 Computer Science Engineer | 📊 Aspiring Data Analyst | 🤖 Data Science & AI Enthusiast
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">Passionate about transforming raw data into meaningful business insights.
@@ -38,10 +40,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=asvarshini&theme=tokyonight)
 
 💼 Featured Projects
 
