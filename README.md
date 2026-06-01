@@ -45,6 +45,8 @@
 
 🛒 AI Smart E-Commerce Analyzer
 
+![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
+
 🌐 Connect With Me
 
 GitHub: https://github.com/asvarshini
