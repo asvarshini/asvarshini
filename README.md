@@ -45,7 +45,8 @@
 
 🛒 AI Smart E-Commerce Analyzer
 
-![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
+[![GitHub Streak](https://streak-stats.demolab.com?user=asvarshini)](https://git.io/streak-stats)
+
 
 🌐 Connect With Me
 
