@@ -14,6 +14,10 @@
 
 📊 Interested in Data Analytics, SQL, Python, and Business Insights
 
+🌱 Currently practicing SQL daily to master data querying and optimization
+
+🌟 GSSoC 2026 Contributor, contributing to open-source projects and expanding collaborative development experience
+
 🌱 Currently building real-world projects to strengthen Data Analyst skills
 
 🎯 Goal: Become a Data Scientist / Data Analyst solving business problems using data
