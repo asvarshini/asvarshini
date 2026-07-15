@@ -49,7 +49,6 @@
 
 🛒 AI Smart E-Commerce Analyzer
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asvarshini)](https://git.io/streak-stats)
 
 🌐 Connect With Me
 
