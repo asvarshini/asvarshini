@@ -5,8 +5,11 @@
 🚀 About Me
 
 🎓 Computer Science Engineering Student (3rd Year)
+
 🏛️ IIT Roorkee Data Science & AI Program (1.5 years)
+
 🌟 GSSoC 2026 Contributor
+
 💼 Open for internships & freelance work
 
 📌 Areas of Interest
