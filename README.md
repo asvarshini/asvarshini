@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
 
-🎓 Computer Science Engineer | 📊 Aspiring Data Analyst | 🤖 Data Science & AI Enthusiast
+Data Analyst | Python • SQL • Power BI • Excel | Turning Data into Business Insights
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">Passionate about transforming raw data into meaningful business insights.
 
@@ -53,8 +53,8 @@
 🌐 Connect With Me
 
 GitHub: https://github.com/asvarshini
-
 Email:asvarshini84@gmail.com
+Linkdin:https://www.linkedin.com/in/varshini-as
 
 
 
