@@ -5,11 +5,8 @@
 🚀 About Me
 
 🎓 Computer Science Engineering Student (3rd Year)
-
 🏛️ IIT Roorkee Data Science & AI Program (1.5 years)
-
 🌟 GSSoC 2026 Contributor
-
 💼 Open for internships & freelance work
 
 📌 Areas of Interest
@@ -17,6 +14,9 @@
 
 💻 Tech Stack
 Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Streamlit | Power BI | Excel | Git | GitHub
+
+🌐 Portfolio
+**[👉 View My Portfolio](https://asvarshini.github.io/)**
 
 🚀 Live Projects
 
