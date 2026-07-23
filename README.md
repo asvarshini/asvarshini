@@ -28,7 +28,6 @@ Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Streamlit | Power BI | Exce
 | Project | Description | Link |
 |---------|-------------|------|
 | 🎓 Student Performance Predictor | ML app predicting student grades using Decision Tree | [Live Demo](https://student-performance-app-en4c3tsykfz9ekptd9xvcf.streamlit.app/) |
-
 | 📊 Olist E-Commerce Dashboard | Interactive BI dashboard analyzing 100K+ orders with SQL + Python | [Live Demo](https://olist-business-analysis-suite-bzbtyhtszhgf2gjsdcbdwq.streamlit.app/) |
 
 💼 Featured Projects
