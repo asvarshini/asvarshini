@@ -1,3 +1,7 @@
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
+
 👋 Hi, I'm Varshini A S
 
 📊 Data Analyst | Python • SQL • Power BI • Streamlit | Turning Data into Business Insights
