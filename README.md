@@ -13,7 +13,7 @@
 - 💼 Open for internships & freelance work
 
 📌 Areas of Interest
-📊 Data Analytics | 📈 Business Intelligence | 🤖 Machine Learning | 📉 Data Visualization | 🏢 KPI Analysis
+📊 Data Analytics | 📈 Business Intelligence | 🤖 Machine Learning | 📉 Data Visualization | 🏢 KPI Analysis|AI
 
 💻 Tech Stack
 Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power BI | DAX | Excel | Git | GitHub
