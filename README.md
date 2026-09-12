@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Varshini A S
 
-📊 Data Analyst | Python • SQL • Power BI • Streamlit | Turning Data into Business Insights
+📊 Data science| Python • SQL • Power BI • Streamlit | Turning Data into Business Insights
 
 🚀 About Me
 - 🎓 Computer Science Engineering Student (3rd Year)
