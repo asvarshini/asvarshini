@@ -26,7 +26,6 @@ Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power 
 | Project | Description | Link |
 |---------|-------------|------|
 | 📊 Olist E-Commerce Dashboard | Interactive BI dashboard analyzing 100K+ orders with SQL + Python | [Live Demo](https://olist-business-analysis-suite-bzbtyhtszhgf2gjsdcbdwq.streamlit.app/) |
-| 🎓 Student Performance Predictor | ML app predicting student grades using Decision Tree | [Live Demo](https://student-performance-app-en4c3tsykfz9ekptd9xvcf.streamlit.app/) |
 | 🤖 OrbitDesk AI Support Agent | LLM-powered support agent with intelligent ticket routing | [Live Demo](https://orbitdesk-support-agent-hsmgzuh6c4y5w9y5h6exk7.streamlit.app/) |
 
 💼 Featured Projects
@@ -34,7 +33,6 @@ Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power 
 | Project | Tech | Link |
 |---------|------|------|
 | 📈 Motorola Sales Dashboard | Power BI, DAX, Data Modeling | [View Project](https://github.com/asvarshini/Power-BI) |
-| 🏭 Daikibo Industrial Analytics | Tableau, Excel, Python | [View Project](https://github.com/asvarshini/Daikibo-Industrial-Analytics) |
 
 🌐 Connect With Me
 
