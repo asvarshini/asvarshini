@@ -16,7 +16,7 @@
 📊 Data Analytics | 📈 Business Intelligence | 🤖 Machine Learning | 📉 Data Visualization | 🏢 KPI Analysis|AI
 
 💻 Tech Stack
-Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power BI | DAX | Excel | Git | GitHub
+Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power BI | DAX | Excel | Git | GitHub|DSA
 
 🌐 Portfolio
 👉 **[View My Portfolio](https://asvarshini.github.io/)**
