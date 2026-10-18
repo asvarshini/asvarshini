@@ -1,3 +1,4 @@
+
 ### 👀 Profile Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asvarshini&color=blue)
@@ -33,6 +34,7 @@ Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power 
 | Project | Tech | Link |
 |---------|------|------|
 | 📈 Motorola Sales Dashboard | Power BI, DAX, Data Modeling | [View Project](https://github.com/asvarshini/Power-BI) |
+| 🛣️ SafeRoute | Safety-focused routing application | [View Project](https://github.com/asvarshini/SafeRoute) |
 
 🌐 Connect With Me
 
