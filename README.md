@@ -38,7 +38,7 @@ Python | SQL | MySQL | Pandas | NumPy | Matplotlib | Plotly | Streamlit | Power 
 
 🌐 Connect With Me
 
-📧 **Email:** asvarshini84@gmail.com
+📧 **Email:** asvarshini84@gmail.com or varshinias32@gmail.com
 
 💻 **GitHub:** [asvarshini](https://github.com/asvarshini)
 
